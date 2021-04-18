@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/maintainers/static/css/main.3d66bbf6.chunk.css",
-    "main.js": "/maintainers/static/js/main.93157c16.chunk.js",
-    "main.js.map": "/maintainers/static/js/main.93157c16.chunk.js.map",
+    "main.css": "/maintainers/static/css/main.c2dc4b32.chunk.css",
+    "main.js": "/maintainers/static/js/main.9834339f.chunk.js",
+    "main.js.map": "/maintainers/static/js/main.9834339f.chunk.js.map",
     "runtime-main.js": "/maintainers/static/js/runtime-main.5e7640fa.js",
     "runtime-main.js.map": "/maintainers/static/js/runtime-main.5e7640fa.js.map",
     "static/css/2.17656351.chunk.css": "/maintainers/static/css/2.17656351.chunk.css",
@@ -10,16 +10,17 @@
     "static/js/2.80c8ae8a.chunk.js.map": "/maintainers/static/js/2.80c8ae8a.chunk.js.map",
     "index.html": "/maintainers/index.html",
     "static/css/2.17656351.chunk.css.map": "/maintainers/static/css/2.17656351.chunk.css.map",
-    "static/css/main.3d66bbf6.chunk.css.map": "/maintainers/static/css/main.3d66bbf6.chunk.css.map",
+    "static/css/main.c2dc4b32.chunk.css.map": "/maintainers/static/css/main.c2dc4b32.chunk.css.map",
     "static/js/2.80c8ae8a.chunk.js.LICENSE.txt": "/maintainers/static/js/2.80c8ae8a.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/maintainers/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/bootstrap.min.css": "/maintainers/static/media/glyphicons-halflings-regular.be810be3.woff2"
+    "static/media/bootstrap.min.css": "/maintainers/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/logo.eae36173.png": "/maintainers/static/media/logo.eae36173.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e7640fa.js",
     "static/css/2.17656351.chunk.css",
     "static/js/2.80c8ae8a.chunk.js",
-    "static/css/main.3d66bbf6.chunk.css",
-    "static/js/main.93157c16.chunk.js"
+    "static/css/main.c2dc4b32.chunk.css",
+    "static/js/main.9834339f.chunk.js"
   ]
 }
