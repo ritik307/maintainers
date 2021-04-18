@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/contributors/static/css/main.3d66bbf6.chunk.css",
+    "main.js": "/contributors/static/js/main.9551d7ff.chunk.js",
+    "main.js.map": "/contributors/static/js/main.9551d7ff.chunk.js.map",
+    "runtime-main.js": "/contributors/static/js/runtime-main.93da0b53.js",
+    "runtime-main.js.map": "/contributors/static/js/runtime-main.93da0b53.js.map",
+    "static/css/2.54f6fb53.chunk.css": "/contributors/static/css/2.54f6fb53.chunk.css",
+    "static/js/2.03985e87.chunk.js": "/contributors/static/js/2.03985e87.chunk.js",
+    "static/js/2.03985e87.chunk.js.map": "/contributors/static/js/2.03985e87.chunk.js.map",
+    "index.html": "/contributors/index.html",
+    "static/css/2.54f6fb53.chunk.css.map": "/contributors/static/css/2.54f6fb53.chunk.css.map",
+    "static/css/main.3d66bbf6.chunk.css.map": "/contributors/static/css/main.3d66bbf6.chunk.css.map",
+    "static/js/2.03985e87.chunk.js.LICENSE.txt": "/contributors/static/js/2.03985e87.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/contributors/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/bootstrap.min.css": "/contributors/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93da0b53.js",
+    "static/css/2.54f6fb53.chunk.css",
+    "static/js/2.03985e87.chunk.js",
+    "static/css/main.3d66bbf6.chunk.css",
+    "static/js/main.9551d7ff.chunk.js"
+  ]
+}
